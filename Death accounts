@@ -1,0 +1,17 @@
+apt update
+apt upgrade
+pkg install python2
+pkg install git
+pkg install unzip
+pkg install tor
+pkg install mechanize 
+https://github.com/ llayTamvan/Report.git
+cd Report 
+unzip Report.zip 
+python2 Report.py 
+git clone
+https://github.com/ terziiskilucifer/facebook-report
+cd facebook-report
+Is
+unzip Report.zip 
+python2 Report.py
